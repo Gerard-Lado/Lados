@@ -1,0 +1,215 @@
+
+            Payroll Date   : July 31, 2021
+            ID             : 2021001
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 20
+            ------------------------------
+            Prorated Pay   : 4500.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4800.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021002
+            Monthly Fee       : 3500
+            ------------------------------
+            Hours Rendered : 17
+            ------------------------------
+            Prorated Pay   : 2975.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 3275.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021003
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 16
+            ------------------------------
+            Prorated Pay   : 3600.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 3900.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021004
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 15
+            ------------------------------
+            Prorated Pay   : 3375.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 3675.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021005
+            Monthly Fee       : 6000
+            ------------------------------
+            Hours Rendered : 16
+            ------------------------------
+            Prorated Pay   : 4800.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 5100.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021006
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 18
+            ------------------------------
+            Prorated Pay   : 4050.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4350.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021007
+            Monthly Fee       : 5000
+            ------------------------------
+            Hours Rendered : 17
+            ------------------------------
+            Prorated Pay   : 4250.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4550.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021008
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 17
+            ------------------------------
+            Prorated Pay   : 3825.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4125.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021009
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 15
+            ------------------------------
+            Prorated Pay   : 3375.0
+            Overtime Pay   : 0
+            Takehome Pay   : 3375.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021010
+            Monthly Fee       : 6000
+            ------------------------------
+            Hours Rendered : 18
+            ------------------------------
+            Prorated Pay   : 5400.0
+            Overtime Pay   : 0
+            Takehome Pay   : 5400.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021011
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 16
+            ------------------------------
+            Prorated Pay   : 3600.0
+            Overtime Pay   : 0
+            Takehome Pay   : 3600.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021012
+            Monthly Fee       : 3500
+            ------------------------------
+            Hours Rendered : 20
+            ------------------------------
+            Prorated Pay   : 3500.0
+            Overtime Pay   : 0
+            Takehome Pay   : 3500.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021013
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 18
+            ------------------------------
+            Prorated Pay   : 4050.0
+            Overtime Pay   : 0
+            Takehome Pay   : 4050.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021014
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 22
+            ------------------------------
+            Prorated Pay   : 4500
+            Overtime Pay   : 900.0
+            Takehome Pay   : 5400.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021015
+            Monthly Fee       : 5000
+            ------------------------------
+            Hours Rendered : 20
+            ------------------------------
+            Prorated Pay   : 5000.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 5300.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021016
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 25
+            ------------------------------
+            Prorated Pay   : 4500
+            Overtime Pay   : 2250.0
+            WFH Allowance  : 300
+            Takehome Pay   : 7050.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021017
+            Monthly Fee       : 6000
+            ------------------------------
+            Hours Rendered : 20
+            ------------------------------
+            Prorated Pay   : 6000.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 6300.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021018
+            Monthly Fee       : 3500
+            ------------------------------
+            Hours Rendered : 17
+            ------------------------------
+            Prorated Pay   : 2975.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 3275.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021019
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 20
+            ------------------------------
+            Prorated Pay   : 4500.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4800.0
+            
+            Payroll Date   : July 31, 2021
+            ID             : 2021020
+            Monthly Fee       : 4500
+            ------------------------------
+            Hours Rendered : 18
+            ------------------------------
+            Prorated Pay   : 4050.0
+            Overtime Pay   : 0
+            WFH Allowance  : 300
+            Takehome Pay   : 4350.0
+            
