@@ -26,9 +26,8 @@ get_property("espresso", "name")
 
 def main():
     total = 0
-    entered = input("Input {product_code},{quantity}: ")
-    entered_code = entered[0: entered.index(",")]
-    order_quantity = int(entered[entered.index(",") + 2:])
+    entered_code = input("Input order code: ")
+    order_quantity = int(input("Quantity: "))
     name = get_property(entered_code, "name")
     subtotal = order_quantity * int(get_property(entered_code, "price"))
     total = total + subtotal
@@ -37,20 +36,18 @@ def main():
                         CODE\t\t\t\t\tNAME\t\t\t\tQUANTITY\t\tSUBTOTAL
                         {entered_code}\t\t\t{name}\t\t\t{order_quantity}\t\t\t{subtotal}
                         """)
-    while entered != "/":
-        entered = input("Input {product_code},{quantity}: ")
-        if entered == "/":
+    while entered_code != "/":
+        entered_code = input("Input order code: ")
+        if entered_code == "/":
             break
-        else:
-            entered_code = entered[0: entered.index(",")]
-            order_quantity = int(entered[entered.index(",") + 2:])
-            name = get_property(entered_code, "name")
-            subtotal = order_quantity * int(get_property(entered_code, "price"))
-            total = total + subtotal
-            with open("receipt.txt", "a") as order_list:
-                order_list.write(f"""
-                            {entered_code}\t\t\t{name}\t\t\t{order_quantity}\t\t\t{subtotal}
-                            """)
+        order_quantity = int(input("Quantity: "))
+        name = get_property(entered_code, "name")
+        subtotal = order_quantity * int(get_property(entered_code, "price"))
+        total = total + subtotal
+        with open("receipt.txt", "a") as order_list:
+            order_list.write(f"""
+                        {entered_code}\t\t\t{name}\t\t\t{order_quantity}\t\t\t{subtotal}
+                        """)
     with open("receipt.txt", "a") as receipt:
         receipt.write(f"""
                         Total:\t\t\t\t\t\t\t\t\t\t{total}
